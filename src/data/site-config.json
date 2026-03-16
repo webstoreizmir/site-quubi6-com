@@ -1,120 +1,119 @@
 {
-  "is_paid": false,
   "metadata": {
-    "title": "Modern Ajans Pro",
-    "description": "Profesyonel dijital çözümler."
+    "title": "qubi6 | Akıllı Yapay Zeka Chatbot Çözümleri",
+    "description": "qubi6, işletmeniz için özel olarak geliştirilmiş yapay zeka destekli chatbot çözümleri sunar. Müşteri hizmetlerinizi otomatikleştirin ve verimliliğinizi artırın."
   },
   "theme": {
     "colors": {
-      "primary": "#2563eb",
-      "secondary": "#1e40af",
-      "background": "#0f172a",
-      "text": "#f8fafc"
+      "primary": "#FFA500",
+      "secondary": "#333333",
+      "background": "#FDFDFD",
+      "text": "#121212"
     },
     "fonts": {
-      "heading": "Montserrat",
+      "heading": "Inter",
       "body": "Inter"
     },
     "style": "modern"
   },
   "images": {
-    "hero_keyword": "modern office architecture glass",
-    "about_keyword": "team meeting creative",
+    "hero_keyword": "soyut turuncu parlayan sinir ağı, modern teknoloji arkaplanı",
+    "about_keyword": "fütüristik bir arayüz etrafında çalışan teknoloji ekibi",
     "feature_keywords": [
-      "code",
-      "design",
-      "rocket"
-    ]
+      "akıllı telefonda chatbot arayüzü",
+      "veri analizi ve raporlama paneli",
+      "otomasyon ve teknoloji konsepti"
+    ],
+    "logo_url": "/images/qubi6-logo.svg"
   },
   "content": {
     "hero": {
-      "headline": "Geleceği Şekillendiriyoruz",
-      "subheadline": "İşletmeniz için en modern teknolojileri kullanarak dijital dünyada fark yaratın.",
-      "ctaButtonText": "Hemen Başlayın"
+      "headline": "Yapay Zeka ile İşinizi Dönüştürün",
+      "subheadline": "qubi6, müşteri etkileşimlerinizi otomatize ederek 7/24 kesintisiz destek sağlamanıza ve operasyonel verimliliği en üst düzeye çıkarmanıza yardımcı olur.",
+      "ctaButtonText": "Teklif Al"
     },
     "about": {
-      "title": "Biz Kimiz?",
-      "description": "2010 yılından beri sektörde öncü çözümler üretiyoruz. Müşteri memnuniyeti odaklı yaklaşımımızla markanızı zirveye taşıyoruz.",
+      "title": "Neden qubi6?",
+      "description": "Biz, teknolojinin gücünü kullanarak işletmelerin müşteri iletişimini yeniden şekillendirmeyi hedefleyen yenilikçi bir ekibiz. Minimalist ve modern yaklaşımlarla, karmaşık sorunlara basit ve etkili yapay zeka çözümleri sunuyoruz.",
       "stats": [
         {
-          "label": "Tamamlanan Proje",
-          "value": "500+"
+          "value": "98%",
+          "label": "Müşteri Memnuniyeti"
         },
         {
-          "label": "Mutlu Müşteri",
-          "value": "150+"
+          "value": "7/24",
+          "label": "Aktif Destek"
         },
         {
-          "label": "Yıllık Deneyim",
-          "value": "12"
+          "value": "5M+",
+          "label": "Yıllık Etkileşim"
         }
       ]
     },
     "services": [
       {
-        "title": "Web Tasarım",
-        "description": "Mobil uyumlu, hızlı ve modern web siteleri.",
-        "icon": "💻"
-      },
-      {
-        "title": "SEO Optimizasyonu",
-        "description": "Google'da ilk sıralarda yerinizi alın.",
+        "title": "Özelleştirilmiş Chatbot Geliştirme",
+        "description": "Marka kimliğinize ve ihtiyaçlarınıza tam uyumlu, akıllı ve öğrenen yapay zeka chatbotları tasarlıyoruz.",
         "icon": "🚀"
       },
       {
-        "title": "Sosyal Medya",
-        "description": "Markanızın sesini dünyaya duyurun.",
-        "icon": "📱"
-      }
-    ],
-    "testimonials": [
-      {
-        "name": "Ahmet Yılmaz",
-        "role": "CEO, Tech Corp",
-        "comment": "Harika bir ekip, işlerini zamanında ve mükemmel yapıyorlar."
+        "title": "7/24 Otomatik Müşteri Desteği",
+        "description": "Müşterilerinizin sorularını anında yanıtlayarak ve sorunlarını çözerek kesintisiz bir hizmet deneyimi sunun.",
+        "icon": "💎"
       },
       {
-        "name": "Ayşe Demir",
-        "role": "Pazarlama Müdürü",
-        "comment": "Satışlarımız %200 arttı. Kesinlikle tavsiye ediyorum."
+        "title": "Veri Analizi ve Raporlama",
+        "description": "Chatbot etkileşimlerinden elde edilen değerli verileri analiz ederek iş stratejilerinizi geliştirmenize yardımcı oluyoruz.",
+        "icon": "⚡"
       }
     ],
     "process": [
       {
         "step": "01",
-        "title": "Keşif ve Analiz",
-        "description": "İhtiyaçlarınızı dinliyor, hedeflerinizi belirliyoruz."
+        "title": "Analiz ve Strateji",
+        "description": "İhtiyaçlarınızı analiz ediyor ve hedeflerinize en uygun chatbot stratejisini birlikte belirliyoruz."
       },
       {
         "step": "02",
-        "title": "Tasarım ve Planlama",
-        "description": "Modern ve kullanıcı dostu tasarımlar oluşturuyoruz."
+        "title": "Geliştirme ve Entegrasyon",
+        "description": "Modern teknolojilerle chatbot'unuzu geliştiriyor ve mevcut sistemlerinize sorunsuzca entegre ediyoruz."
       },
       {
         "step": "03",
-        "title": "Geliştirme ve Teslimat",
-        "description": "Kodlama ve testleri tamamlayıp projenizi teslim ediyoruz."
+        "title": "Optimizasyon ve Destek",
+        "description": "Canlıya geçiş sonrası performansı sürekli izliyor, optimize ediyor ve teknik destek sağlıyoruz."
       }
     ],
     "faq": [
       {
-        "question": "Proje teslim süresi ne kadar?",
-        "answer": "Projenin kapsamına göre 2-6 hafta arasında değişmektedir."
+        "question": "Chatbot'u mevcut web siteme entegre edebilir miyim?",
+        "answer": "Evet, geliştirdiğimiz chatbot çözümleri tüm modern web siteleri ve platformlarla kolayca entegre olabilir."
       },
       {
-        "question": "Ödeme koşulları nelerdir?",
-        "answer": "%50 peşin, %50 teslimat sonrası ödeme planı sunuyoruz."
+        "question": "Geliştirme süreci ne kadar zaman almaktadır?",
+        "answer": "Projenin karmaşıklığına bağlı olarak süreç genellikle 2 ila 6 hafta arasında tamamlanmaktadır."
       },
       {
-        "question": "Destek hizmeti veriyor musunuz?",
-        "answer": "Evet, teslim sonrası 6 ay ücretsiz teknik destek sağlıyoruz."
+        "question": "Fiyatlandırma modeliniz nasıl çalışıyor?",
+        "answer": "İhtiyaçlarınıza özel esnek paketler sunuyoruz. Detaylı bilgi için bizimle iletişime geçebilirsiniz."
+      }
+    ],
+    "testimonials": [
+      {
+        "name": "Elif Kara",
+        "role": "E-ticaret Yöneticisi, ModaTrend",
+        "comment": "qubi6 sayesinde satış sonrası destek taleplerimiz %70 oranında azaldı. Müşteri memnuniyetimiz tavan yaptı!"
+      },
+      {
+        "name": "Barış Çelik",
+        "role": "CEO, TeknoGirişim",
+        "comment": "Süreç boyunca gösterdikleri profesyonellik ve hızlı çözümleriyle harika bir iş çıkardılar. Kesinlikle tavsiye ederim."
       }
     ],
     "contact": {
-      "address": "Levent, Büyükdere Cd. No:1, İstanbul",
-      "phone": "+90 555 123 45 67",
-      "email": "info@modernajans.com",
-      "map_query": "Istanbul"
+      "address": "Kemal Reis, Şükrü Saraçoğlu Cd. 90/A",
+      "phone": "+905541103132",
+      "email": "cankavlak@gmail.com"
     }
   }
 }
